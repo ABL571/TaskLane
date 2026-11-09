@@ -86,7 +86,6 @@ src/
 
 Important custom hooks: `useAuth`, `useTasks`, `useLocalTasks`, `useTaskFilters`, `useKanbanDrag`. Pure functions in `features/tasks/model`: `upsertTask`, `removeTask`, `moveTask`, `filterTasks`, `taskStats`. Local state/storage is isolated in `taskRepository`.
 
-Full explanation: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md). Requirement-by-requirement audit: [docs/REQUIREMENTS_MATRIX.md](docs/REQUIREMENTS_MATRIX.md).
 
 ## Manual usage
 
