@@ -2,7 +2,7 @@
 
 ![React](https://img.shields.io/badge/React-18-149eca) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6) ![Vite](https://img.shields.io/badge/Vite-6-646cff)
 
-Frontend Developer Practical Test: a responsive, working Kanban Task Management app with a **Jira-inspired interface** (independent UI, **not** an Atlassian integration). Based on the supplied `Frontend_Developer_Practical_Test.docx`.
+Frontend Developer Practical Test: a responsive, working Kanban Task Management app with a **Jira-inspired interface** (independent UI, **not** an Atlassian integration).
 
 ## What it delivers
 
