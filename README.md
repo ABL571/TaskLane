@@ -30,7 +30,7 @@ Frontend Developer Practical Test: a responsive, working Kanban Task Management 
 | Dates | dayjs |
 | Testing | Node assertions for domain and storage behavior; TypeScript compiler |
 
-**Why not microservices?** This coding exercise explicitly specifies DummyJSON for auth and localStorage for tasks, so a backend or microservice cluster would add deployment burden without implementing a requirement. The application is organized as a **feature-based modular frontend** that can be extended with a REST backend later. See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
+**Why not microservices?** This coding exercise explicitly specifies DummyJSON for auth and localStorage for tasks, so a backend or microservice cluster would add deployment burden without implementing a requirement. The application is organized as a **feature-based modular frontend** that can be extended with a REST backend later.
 
 ## Quick start
 
